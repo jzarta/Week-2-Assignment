@@ -214,54 +214,54 @@ input[type=submit] {
 	cursor: pointer;
 }
 /* Desktop */
-@media screen and (max-width: 980px) and (min-width: 768){
+@media screen and (max-width: 980px) and (min-width: 768px){
 	}
 		.bio-image {
 			height: auto;
-			width: 80px;
-			margin: 5px;
+			width: 80%;
+			margin: 5%;
 	}
 		.connect-box{
-			width: 25px;
-			height: 5px;
+			width: 25%;
+			height: 5%;
 	}
 		li img{
-			width: 95px;
-			height: 95px; 
+			width: 95%;
+			height: 95%; 
 	}
 		li{
-			width: 45px;
+			width: 45%;
 		}
 		h3{
-			font-size: 20px;
+			font-size: 20%;
 		}
 /* Tablet */
 @media screen and (max-width: 768px) and (min-width: 640px)
 		{
 			header{
-				margin: 0px 3px;
+				margin: 0% 3%;
 			}
 	#nav-bar{
-			margin-top: 0px;
-			padding: 4px 4px 4px;
-			padding-right: 0px;
+			margin-top: 0%;
+			padding: 4% 4% 4%;
+			padding-right: 0%;
 		}
 	#contact{
 		width: auto;
 		height: auto;
-		margin: 5px;
+		margin: 45%;
 		float: none;
 		}
 	.bio-image{
 		float: left;
-		width: 55px;
+		width: 55%;
 		height: auto;
-		padding-right: 2px;
-		margin: 2px;
+		padding-right: 2%;
+		margin: 2%;
 	}
 	p{
-		margin-left: 0px;
-		width: 100px;
+		margin-left: 0%;
+		width: 100%;
 	}
 	.connect-box{
 		float: none;
